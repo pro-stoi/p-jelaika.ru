@@ -1,0 +1,49 @@
+
+h4 {font-size:40px; }	  
+
+
+BODY {}
+           
+ #dobroe{
+	 height:80px;
+     width:200px;
+	 text-align:center;
+	 background-color:#5AFF00;
+	   float:left;
+      position:relative ; left: 25px;top: 50px;
+	
+   
+    border-radius: 20px; /* ”голки */
+ }
+  #zloe{
+      height:80px;
+      width:200px;
+      text-align:center;
+	  background-color:#FF0000;
+	   float:left;
+      position:relative ; left: 500px;top: 50px; 
+	 
+    border-radius: 20px; /* ”голки */
+	 
+   }
+   #blok{ 
+	height:950px;
+    width:950;
+	background-position: centr;
+    background-image: url(dgin.jpg);
+    background-repeat: no-repeat;
+	margin:0 25% 0 25%;
+	text-align:center;
+	
+   }
+   #jelai{
+      height:80px;
+      width:200px;
+      text-align:5px center;
+	  background-color:#F8E11B;
+	   
+      position:relative ; left: 40%;top: 5px; 
+	 
+    border-radius: 20px; /* ”голки */
+	 
+   }
