@@ -1,5 +1,5 @@
-
-h4 {font-size:40px; }	  
+h4 {font-size:40px; }	
+h5 {font-size:40px;color: aqua; position:relative ; left: 200px;top: 50px;}	  
 
 
 BODY {}
@@ -13,7 +13,7 @@ BODY {}
       position:relative ; left: 25px;top: 50px;
 	
    
-    border-radius: 20px; /* ”голки */
+    border-radius: 20px; 
  }
   #zloe{
       height:80px;
@@ -23,7 +23,7 @@ BODY {}
 	   float:left;
       position:relative ; left: 500px;top: 50px; 
 	 
-    border-radius: 20px; /* ”голки */
+    border-radius: 20px; 
 	 
    }
    #blok{ 
@@ -33,7 +33,7 @@ BODY {}
     background-image: url(dgin.jpg);
     background-repeat: no-repeat;
 	margin:0 25% 0 25%;
-	text-align:center;
+	
 	
    }
    #jelai{
@@ -41,9 +41,33 @@ BODY {}
       width:200px;
       text-align:5px center;
 	  background-color:#F8E11B;
-	   
       position:relative ; left: 40%;top: 5px; 
-	 
-    border-radius: 20px; /* ”голки */
-	 
+    border-radius: 20px; 
    }
+   #data{
+      height:60px;
+      width:200px;
+      text-align:center;
+      float:left;
+      position:fixed ; left: 5px;top: 5px;
+    
+   }
+   #glav{
+      height:60px;
+      width:200px;
+      text-align:center;
+      float:left;
+position:fixed ; left: 5px;top: 5px;
+    
+   }
+   #pole{
+      height:50px;
+      width:300px;
+
+   }
+   #botton{font-size:18px; height:50px;  width:200px;}
+
+#dlaForm{
+  height:40px;width:200px;
+  font-size:40px;
+  position:relative ; left: 5px;}
